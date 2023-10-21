@@ -1,5 +1,4 @@
 {
-  "access-token": "${{ secrets.ACCESS_TOKEN }}",
   "server": "mstdn.tacowolf.net",
   "home-timeline-length": 256,
   "max-followings": 128,
