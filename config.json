@@ -1,6 +1,6 @@
 {
   "server": "mstdn.tacowolf.net",
-  "home-timeline-length": 256,
-  "max-followings": 128,
-  "from-notifications": 2
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "from-notifications": 1
 }
